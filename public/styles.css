@@ -1,7 +1,8 @@
 /* public/styles.css */
 body {
     font-family: Arial, sans-serif;
-    background-image: url('./images/ocean-3605547_1920.jpg'); /* Path to your background image */
+     /* Path to your background image */
+    background-color: cadetblue;
     background-size: cover; /* Cover the entire background */
     background-position: center; /* Center the background image */
     background-repeat: no-repeat; /* Prevent the background from repeating */
